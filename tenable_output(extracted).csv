@@ -1,0 +1,54 @@
+id,patch publication date,risk factor,score,exploites,exploites available
+41028,,Medium,5.2,,No exploit is required
+80101,,Medium,4.4,TRUE,Exploits are available
+166555,,High,8.9,TRUE,Exploits are available
+183391,10/19/2023,Medium,4.4,,No known exploits are available
+193419,10/19/2023,Medium,4.4,,No known exploits are available
+191711,03-05-2024,Critical,9.2,,No known exploits are available
+177249,6/13/2023,Medium,6.7,TRUE,Exploits are available
+181409,9/13/2023,Medium,4.4,TRUE,Exploits are available
+182875,10-11-2023,High,7.4,TRUE,Exploits are available
+140465,09-08-2020,Medium,5.9,,No known exploits are available
+197296,5/14/2024,Critical,9.2,TRUE,Exploits are available
+140132,06-09-2020,Medium,6.7,TRUE,Exploits are available
+135719,4/14/2020,Medium,5.9,,No known exploits are available
+42411,,Medium,6.6,,No known exploits are available
+179644,08-08-2023,Medium,4.4,,No known exploits are available
+187315,12/18/2023,Medium,6.1,TRUE,Exploits are available
+187201,12/18/2023,Medium,6.1,TRUE,Exploits are available
+42873,,Medium,5.1,,
+35291,,Medium,4.2,TRUE,Exploits are available
+159491,4/17/2019,Medium,6.1,TRUE,Exploits are available
+168362,11/29/2022,Low,3.6,,No known exploits are available
+132101,,High,8.4,TRUE,Exploits are available
+159490,8/24/2018,Medium,4.9,TRUE,Exploits are available
+167509,11/14/2022,Low,3.6,,No known exploits are available
+162428,6/21/2022,Medium,5.1,TRUE,Exploits are available
+65821,,Medium,4.4,,No known exploits are available
+169783,01-10-2023,Medium,6,TRUE,Exploits are available
+76474,,Low,3.6,,
+180506,8/31/2023,Medium,6.7,,No known exploits are available
+184130,10/26/2023,Medium,6.7,,No known exploits are available
+10114,,Medium,4.2,,
+70658,,Low,3.6,,No known exploits are available
+161605,5/24/2022,Medium,5.2,,No known exploits are available
+177328,6/13/2023,Medium,4.6,TRUE,Exploits are available
+125884,06-06-2019,Medium,5.2,,No known exploits are available
+83875,,Low,An in depth analysis by tenable researchers revealed the access complexity to be high.,,No known exploits are available
+148955,4/14/2020,Low,3,,No known exploits are available
+31705,,Medium,4.4,,No known exploits are available
+135481,4/14/2020,Low,3.6,,No known exploits are available
+132937,1/14/2020,Medium,4.4,,No known exploits are available
+11197,,Medium,4.2,TRUE,Exploits are available
+91572,05-03-2016,Medium,4.4,TRUE,Exploits are available
+139584,08-11-2020,Medium,4.2,,No known exploits are available
+42411,,Medium,6.6,,No known exploits are available
+152423,08-10-2021,Low,3.6,,No known exploits are available
+170531,1/24/2023,Medium,5.9,,No known exploits are available
+163963,08-09-2022,Medium,4.4,,No known exploits are available
+150432,06-09-2021,Medium,5.2,TRUE,Exploits are available
+159464,04-01-2022,Low,1.4,,No known exploits are available
+159464,04-01-2022,Low,1.4,,No known exploits are available
+192568,6/14/2022,Low,3.6,,No known exploits are available
+166287,10/19/2022,Low,2.2,TRUE,Exploits are available
+202028,07-09-2024,Critical,9.4,TRUE,Exploits are available
